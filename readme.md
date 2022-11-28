@@ -98,9 +98,9 @@ To mark the checkbox, change [ ] to [x].
 
 #### Easy
 
-1. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
-3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
+1. [x] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
+2. [x] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+3. [x] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
 4. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
 6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
